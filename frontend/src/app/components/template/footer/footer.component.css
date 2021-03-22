@@ -1,0 +1,17 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    align-items: center;
+}
+
+.credito{
+    padding: 5px;
+    font-weight: 300;
+    font-size: 1rem;
+    position: fixed;
+    right: 0;
+}
+
+.footer-image{
+    width: 100px;
+}

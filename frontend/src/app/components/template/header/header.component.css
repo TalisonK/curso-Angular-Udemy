@@ -1,0 +1,31 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.header a{
+    display: flex;
+    align-items: center;
+    justify-items: left;
+}
+
+.header span{
+    display: flex;
+    flex-direction: row;
+    padding-right: 5px;
+}
+
+.header img{
+    width: 200px;
+    animation-name: transition;
+    animation-duration: 2s;
+    padding-right: 7px;
+}
+
+
+
+@keyframes transition{
+    from{opacity: 0%;}
+    to{opacity: 100%;}
+}

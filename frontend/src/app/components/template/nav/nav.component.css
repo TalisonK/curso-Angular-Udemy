@@ -1,0 +1,17 @@
+
+.sidenav {
+    background-color: #2C2F33;
+    width: 200px;
+}
+
+.sidenav a {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color:#fff;
+    width: 100%;
+}
+
+.sidenav i{
+    padding-right: 3px;
+}

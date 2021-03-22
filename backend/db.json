@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta azul",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "notebook mac pro",
+      "price": 12000
+    },
+    {
+      "id": 3,
+      "name": "Sansung s20",
+      "price": 5000
+    },
+    {
+      "name": "geladeira",
+      "price": "1913.99",
+      "id": 4
+    },
+    {
+      "name": "rennan",
+      "price": "0.1",
+      "id": 5
+    }
+  ]
+}
